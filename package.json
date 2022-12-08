@@ -18,5 +18,12 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredLove/Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JaredLove/Book-Search-Engine/issues"
   }
 }
