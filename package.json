@@ -2,6 +2,9 @@
   "homepage": "https://github.com/JaredLove/Book-Search-Engine",
   "name": "googlebooks-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.12.1"
+  },
   "description": "",
   "main": "server/server.js",
   "scripts": {
