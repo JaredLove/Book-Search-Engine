@@ -3,7 +3,7 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "engines": {
-    "node": "16.17.1"
+    "node": "17.9.0"
   },
   "description": "",
   "main": "server/server.js",
